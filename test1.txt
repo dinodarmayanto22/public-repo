@@ -1,2 +1,0 @@
-   Ini adalah file test1.txt.  
-   File ini dibuat sebagai bagian dari tugas pengelolaan repositori menggunakan Git
